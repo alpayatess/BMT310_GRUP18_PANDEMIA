@@ -1,0 +1,2 @@
+# BMT310_GRUP18_PANDEMIA
+PANDEMIA mobile game
